@@ -52,7 +52,7 @@
   ],
   "outbounds": [
     
-    },
+    
     {
       "type": "direct",
       "tag": "direct"
