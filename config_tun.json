@@ -51,19 +51,7 @@
     }
   ],
   "outbounds": [
-    {
-      "type": "hysteria2",
-      "tag": "proxy",
-      "server": "148.135.13.73",
-      "server_port": 12456,
-      "up_mbps": 100,
-      "down_mbps": 700,
-      "password": "a9e7ea4f-1cb9-4ff6-9bed-a5ddddd8a1166abb8",
-      "tls": {
-        "enabled": true,
-        "server_name": "love.lyjzh.xyz",
-        "insecure": true
-      }
+   
     },
     {
       "type": "direct",
